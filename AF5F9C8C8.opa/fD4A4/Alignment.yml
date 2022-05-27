@@ -1,0 +1,23 @@
+segment_sources:
+  I2DBBCA8D:
+    type: origin_type
+    relation: translation
+    language: sa
+  I1A461B4E:
+    type: origin_type
+    relation: translation
+    language: bo
+  I55FA3753:
+    type: origin_type
+    relation: translation
+    language: sa
+  I50C513CE:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  76a29c5db686409d8acde6aa59915a7d:
+    I2DBBCA8D: f3c664e8986446d78d8894054a30c9ef
+    I1A461B4E: 723fd0b2358944178e0b9ed154a21718
+    I55FA3753: 688e7b5a276a4e2c9bffe68399939326
+    I50C513CE: fc7ecdbfbfc04ee19bdc5105feda16e0
